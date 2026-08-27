@@ -1,7 +1,3 @@
-![Hero Banner](https://coolreadme.xyz/api/hero-banner?user=LabrynthKing&theme=dark&accent=%23A78BFA&title=LabrynthKing&subtitle=Working%20On%20Stupid%20Stuff%20As%20Always)
-
-![Cool Ig](https://coolreadme.xyz/api/typing-card?user=LabrynthKing&theme=dark&accent=%2300FFFF&lines=Into%2BThe%2BLabrynth%7CPeople%2BCan%2BOnly%2BEver%2BSave%2BThemselves.%7COne%2BPerson%2BSaving%2BAnother%2BIs%2BImpossible.)
-
 <img src="https://raw.githubusercontent.com/LabrynthKing/LabrynthKing/snake-output/snake.svg" alt="Snake animation" />
 
 ## Stuff I (Kinda) Know About:-
